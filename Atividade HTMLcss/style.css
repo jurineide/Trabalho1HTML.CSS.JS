@@ -1,0 +1,110 @@
+*{ margin: 0; padding:0
+
+}
+body {background-color: rgb(241, 239, 219);
+
+}
+.cabeçalho {background-image: url(logo3.png);
+
+}
+.cabeçalho img {width: 300px;
+
+}
+.botão {height: 25px;width: 100px; font-size: 15px; font-style:oblique ; color: #df840d; 
+background-color: black; position: absolute; margin-top: 20px;margin-left: 900px; border-radius: 10px
+
+}
+.botão2 {height: 25px;width: 100px; font-size: 15px; font-style:oblique ; color: #df840d; 
+background-color: black; position: absolute; margin-top: 60px;margin-left: 900px; border-radius: 10px
+
+}
+.lista ul li {display: inline-block;  padding-right: 100px; font-size: 23px; color: rgb(6, 12, 29);
+margin-left: 10px;
+
+}
+.lista a {margin-left: 25px; color:#272626;
+
+}
+.inicio {border-style: none; background-color: #6691e2; outline: #72767c solid 20px;
+
+}
+.imagens {margin-top: 0; left: 0;margin-left: 0%;margin-right: 0%; display:inline-block; position: relative;
+
+}
+.imagens img {width: 682px;height: 400px;margin-left: -10px;margin-right:0%
+
+}
+.bloco2 {border-style: none; background-color: #6691e2; 
+
+}
+h2 {font-size: 45px; color: #272626; margin-left: 35%;
+
+}
+h3 {color:#272626;font-size: 25px; margin-left: 40%;
+
+}
+.imgs {display:flex; justify-content:space-between; margin-left: 5px; 
+
+}
+.imgl1 li {font-size: 17px;border-style:none; background-color: #f7ecac;margin-left: 20px;
+list-style-type: none;
+
+}
+.imgl2 li {font-size: 17px;border-style:none; background-color: #f7ecac ; list-style-type:none;
+
+}
+.imgl3 li {font-size: 17px;border-style:none; background-color: #f7ecac ; list-style-type: none;
+
+}
+.imgl4 li {font-size: 17px;border-style:none; background-color:#f7ecac; list-style-type: none;
+
+}
+.imgl5 li {font-size: 17px;border-style:none; background-color:#f7ecac ; list-style-type: none;
+
+}
+.imgl1 img {width: 170px; height: 230px; margin-left: 20px; border:2px solid #e09b3f;
+
+}
+.imgl2 img {width: 170px; height: 230px;border:2px solid #e09b3f;
+
+}
+.imgl3 img {width: 170px; height: 230px;border:2px solid #e09b3f;
+
+}
+.imgl4 img {width: 170px; height: 230px;border:2px solid #e09b3f;
+
+}
+.imgl5 img {width: 170px; height: 230px; margin-right: 50px;border:2px solid #e09b3f;
+
+}
+
+.cadastro {justify-content:space-between; margin-left: 2px; margin-bottom: 10%;
+} 
+
+p {font-size: 30px; margin-left: 30%; margin-top: 2%;
+
+}
+input {width: 50%;  border-radius: 10px; size: 50px;height: 35px;border:2px solid #272626;
+margin-left: 2%;margin-top: 2%;
+
+}
+select {width: 300px; border: 2px; border-radius: 10px; height: 35px;border:2px solid #272626;
+margin-left: 2%;
+
+}
+.cadastro button {width: 80px; border: 2px; border-radius: 10px; height: 35px; border:2px solid #272626;
+margin-left: 2%;
+
+}
+.bandeira {margin-left: 225px; width: 60%;
+
+}
+.tabela {border:2px solid #272626; width: 100% ; height: 300px; background-color:#a6bbbb;
+
+}
+.tabela h4 {font-size: 20px; color: black;
+
+}
+.tabela th {color: rgb(66, 65, 65);
+
+}
